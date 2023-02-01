@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nicovray
 - 👀 I’m interested in Web dev, photography, history
-- 🌱 I’m currently learning Microsoft Azure
+- 🌱 I’m currently learning Microsoft Azure, ARM sciprt in JSON & Bicep, Terraform
 - 💞️ I’m looking to collaborate on website's creation
 - 📫 How to reach me : auvnic@gmail.com
 
